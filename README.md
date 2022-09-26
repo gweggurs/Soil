@@ -1,6 +1,8 @@
 All data required to run the notebooks is available as a zipped folder via Google Drive:
 - https://drive.google.com/drive/folders/1tSi-8RoeVKNt2BNSTHtNHD27xPzUxOr7?usp=sharing
 
+The powerpoint slides are a good summary of the high level conclusions. 
+The Modeling and Visualization, Add'l EDA books are good places to start for more in depth conclusions.
 
 7 Notebooks
 Python Environments - my environment text file is included and named env_reqs. The environment is my 'base' python kernel with plotly installed--plotly is only required for the 'Soil, Visualization, Add'l EDA' notebook
